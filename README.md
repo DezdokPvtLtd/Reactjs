@@ -1,3 +1,1 @@
 # Reactjs
-
-node_module
